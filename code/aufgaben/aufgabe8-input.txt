@@ -1,0 +1,2 @@
+Python ist eine vielseitige Sprache. Man kann Python für maschinelles Lernen, Webentwicklung, und mehr verwenden.
+Die Einfachheit von Python macht es zu einer großartigen Sprache für Anfänger.
